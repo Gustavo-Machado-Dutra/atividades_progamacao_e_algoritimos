@@ -1,0 +1,19 @@
+QUESTÃO 1
+R: B) Definição
+
+JUSTIFICATIVA: A propriedade de definição exige que cada passo do algoritmo seja descrito de maneira precisa, clara e sem ambiguidades, permitindo que a execução seja compreendida de forma única.
+
+QUESTÃO 2
+R: C) Entrada, processamento e saída.
+
+JUSTIFICATIVA: Um sistema digital normalmente segue o ciclo de entrada → processamento → saída. Primeiro, os dados são fornecidos ao sistema; depois, são processados de acordo com as regras estabelecidas; por fim, o resultado desse processamento é apresentado como saída.
+
+QUESTÃO 3
+R: C) Losango
+
+JUSTIFICATIVA: O losango é o símbolo utilizado em fluxogramas para representar uma decisão ou condição. Ele permite avaliar uma situação e direcionar o fluxo para diferentes caminhos, normalmente representados como Verdadeiro ou Falso.
+
+QUESTÃO 4
+R: B) A linguagem elimina ambiguidades.
+
+JUSTIFICATIVA: As linguagens de programação possuem regras de sintaxe e semântica que permitem transformar a lógica de um algoritmo em instruções que podem ser interpretadas ou compiladas para execução pelo computador. Dessa forma, a linguagem fornece uma forma precisa de expressar a solução computacional.
