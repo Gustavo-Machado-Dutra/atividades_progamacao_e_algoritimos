@@ -1,0 +1,60 @@
+EXERCÍCIO 1-1 — COMPARAÇÃO ENTRE TEMPOS DE EXECUÇÃO
+
+Função:
+f(n) = lg n microssegundos
+
+Para descobrir o maior tamanho n:
+lg n = t
+n = 2^t
+
+Considerando:
+1 segundo = 1.000.000 microssegundos
+1 minuto = 60.000.000 microssegundos
+1 hora = 3.600.000.000 microssegundos
+1 dia = 86.400.000.000 microssegundos
+1 mês = 2.592.000.000.000 microssegundos
+1 ano = 31.536.000.000.000 microssegundos
+1 século = 3.153.600.000.000.000 microssegundos
+
+RESPOSTAS:
+
+1 segundo:
+n = 2^1.000.000
+
+1 minuto:
+n = 2^60.000.000
+
+1 hora:
+n = 2^3.600.000.000
+
+1 dia:
+n = 2^86.400.000.000
+
+1 mês:
+n = 2^2.592.000.000.000
+
+1 ano:
+n = 2^31.536.000.000.000
+
+1 século:
+n = 2^3.153.600.000.000.000
+
+
+EXPLICAÇÃO:
+
+Como o algoritmo demora lg n microssegundos, igualamos lg n ao tempo disponível em microssegundos.
+
+Exemplo para 1 segundo:
+
+lg n = 1.000.000
+
+Aplicando a definição de logaritmo:
+
+n = 2^1.000.000
+
+Portanto, o maior tamanho de problema que pode ser resolvido em 1 segundo é 2^1.000.000.
+
+Convenções utilizadas:
+- 1 mês = 30 dias
+- 1 ano = 365 dias
+- 1 século = 100 anos
